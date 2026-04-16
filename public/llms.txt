@@ -1,0 +1,62 @@
+# OhDelivery
+
+> OhDelivery é uma plataforma brasileira de delivery que conecta clientes a restaurantes, mercados e farmácias com entrega rápida.
+
+## O que é o OhDelivery?
+
+OhDelivery é um serviço de entrega por demanda (delivery) operando no Brasil. Permite que consumidores peçam comida, produtos de mercado e itens de farmácia diretamente pelo aplicativo web, com entrega realizada por entregadores parceiros.
+
+## App para clientes
+
+- URL: https://app.ohdelivery.com.br
+- Plataforma: Web (mobile e desktop)
+- Gratuito para clientes
+- Pagamento: cartão de crédito, débito e Pix
+
+## Portal para parceiros (restaurantes e lojas)
+
+- URL: https://parceiros.ohdelivery.com.br
+- Taxa: 5% por pedido pago pelo app
+- Sem mensalidade ou taxa de adesão
+- Painel completo com gestão de pedidos, cardápio, financeiro e entregadores
+
+## Categorias disponíveis
+
+- Lanches e hambúrgueres
+- Pizza
+- Comida japonesa e sushi
+- Comida saudável e fitness
+- Frango e grelhados
+- Comida mexicana
+- Mercado e supermercado
+- Farmácia e drogaria
+
+## Informações gerais
+
+- País: Brasil
+- Idioma: Português (pt-BR)
+- CNPJ: 62.622.102/0001-04
+- Tempo médio de entrega: 30 minutos
+- Avaliação média: 4.9/5
+- Parceiros ativos: 500+
+
+## Redes sociais
+
+- Instagram: https://instagram.com/ohdelivery
+- Facebook: https://facebook.com/ohdelivery
+- LinkedIn: https://linkedin.com/company/ohdelivery
+- YouTube: https://youtube.com/@ohdelivery
+
+## Perguntas frequentes
+
+**Como funciona o OhDelivery?**
+Informe seu endereço, escolha o restaurante ou loja, monte seu pedido e acompanhe a entrega em tempo real.
+
+**Quais formas de pagamento são aceitas?**
+Cartão de crédito, débito e Pix.
+
+**Como me tornar parceiro?**
+Acesse parceiros.ohdelivery.com.br e cadastre sua loja gratuitamente.
+
+**Qual a taxa cobrada dos parceiros?**
+Apenas 5% sobre pedidos pagos pelo app. Sem mensalidade.
