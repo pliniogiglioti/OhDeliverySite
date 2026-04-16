@@ -3,10 +3,6 @@ import { ChevronRight, MapPin } from 'lucide-react'
 const APP_URL = 'https://app.ohdelivery.com.br'
 
 export function Hero() {
-  function scrollTo(id: string) {
-    document.getElementById(id)?.scrollIntoView({ behavior: 'smooth' })
-  }
-
   return (
     <section className="border-b border-[#f0f0f0] bg-[#fafafa] py-24">
       <div className="mx-auto max-w-6xl px-6 text-center">
